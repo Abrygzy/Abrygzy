@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Abrygzy
-- 👀 I’m interested in astrophysics, especially galaxies.
-- 🌱 I’m currently learning astrophysics.
+- 👋 Hi, I’m Zeyu Gao, a PhD student interested in galaxies.
+- 🌱 See more info about me in [abrygzy.github.io](https://abrygzy.github.io/).
 - 📫 Contact me @ zygao@stu.pku.edu.cn
 
 <!---
